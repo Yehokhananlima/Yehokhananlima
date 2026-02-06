@@ -8,7 +8,7 @@ I enjoy building web apps, APIs and clean UI experiences.
 - 🌎 Based in Brazil
 - 📚 Currently studying Systems Analysis and Development
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ0ZGNienFib2wxeGE0NGRldmZtNXcwZmFvazl2NTg4cnM2OHZ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="300"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjd1cWlycjI1bjgwZ3RjMDVzb3AzNmdjcjVtdG1vbmx1YjRkM2tuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
 
 ### Tech Stack
 <p>
