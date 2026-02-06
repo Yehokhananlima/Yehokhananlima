@@ -1,6 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Angular+%2B+Spring;Always+learning&center=true&width=500&height=50">
-
-
 ## Hi! I'm Yoha 👋
 
 Full Stack Developer focused on **Angular + Java/Spring**.  
@@ -8,6 +5,8 @@ I enjoy building web apps, APIs and clean UI experiences.
 
 - 🌎 Based in Brazil
 - 📚 Currently studying Systems Analysis and Development
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Angular+%2B+Spring;Always+learning&center=true&width=500&height=50">
 
 ### Tech Stack
 <p>
