@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Angular+%2B+Spring+%2BJava;Building+web+applications&center=true&width=500&height=50">
+
 ## Hi! I'm Yoha 👋
 
 Full Stack Developer focused on **Angular + Java/Spring**.  
@@ -6,7 +8,7 @@ I enjoy building web apps, APIs and clean UI experiences.
 - 🌎 Based in Brazil
 - 📚 Currently studying Systems Analysis and Development
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Angular+%2B+Spring;Always+learning&center=true&width=500&height=50">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
 ### Tech Stack
 <p>
@@ -27,4 +29,5 @@ I enjoy building web apps, APIs and clean UI experiences.
   <a href="https://www.linkedin.com/in/yehokhanan-lima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
+<img src="https://github.com/Yehokhananlima/Yehokhananlima/blob/main/github-metrics.svg" />
+
