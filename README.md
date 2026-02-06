@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Angular+%2B+Spring;Always+learning&center=true&width=500&height=50">
+
+
 ## Hi! I'm Yoha 👋
 
 Full Stack Developer focused on **Angular + Java/Spring**.  
