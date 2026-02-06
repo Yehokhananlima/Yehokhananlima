@@ -29,5 +29,6 @@ I enjoy building web apps, APIs and clean UI experiences.
   <a href="https://www.linkedin.com/in/yehokhanan-lima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<img src="https://github.com/Yehokhananlima/Yehokhananlima/blob/main/github-metrics.svg" />
+<img src="https://raw.githubusercontent.com/Yehokhananlima/Yehokhananlima/main/github-metrics.svg" />
+
 
