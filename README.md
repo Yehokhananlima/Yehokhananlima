@@ -6,14 +6,6 @@ I enjoy building web apps, APIs and clean UI experiences.
 - 🌎 Based in Brazil
 - 📚 Currently studying Systems Analysis and Development
 
-### GitHub Stats
-<p>
-  <a href="https://github.com/Yehokhananlima">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yehokhananlima&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-  </a>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehokhananlima&layout=compact&langs_count=10&theme=gotham" />
-</p>
-
 ### Tech Stack
 <p>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
